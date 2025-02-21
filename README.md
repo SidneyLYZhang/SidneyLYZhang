@@ -42,6 +42,6 @@ These are just some whimsical coding projects I came up with in my spare time - 
 
 ## Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SidneyLYZhang&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SidneyLYZhang&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 Thanks for visiting my profile! Have a great day! 😊
